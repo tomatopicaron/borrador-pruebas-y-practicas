@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejemplo de Listas</title>
+</head>
+<body>
+
+    <h1>Mis Hobbies</h1>
+
+    <!-- Lista desordenada -->
+    <h2>Lista Desordenada</h2>
+    <ul>
+        <li>Jugar videojuegos</li>
+        <li>Aprender programación</li>
+        <li>Escuchar música</li>
+        <li>Hacer ejercicio</li>
+    </ul>
+
+    <!-- Lista ordenada -->
+    <h2>Lista Ordenada</h2>
+    <ol>
+        <li>Encender el computador</li>
+        <li>Abrir el navegador</li>
+        <li>Entrar a mi página web</li>
+        <li>Practicar HTML</li>
+    </ol>
+
+</body>
+</html>
