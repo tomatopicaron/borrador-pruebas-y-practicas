@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Tortuga Caimán</title>
+</head>
+<body>
+
+    <h1>La Tortuga Caimán</h1>
+
+    <p>
+        La tortuga caimán es una de las tortugas de agua dulce más grandes y fuertes del mundo.
+        Es conocida por su poderosa mordida y su apariencia prehistórica.
+    </p>
+
+    <h2>Características</h2>
+    <ul>
+        <li>Tiene un caparazón rugoso con forma de picos.</li>
+        <li>Posee una mandíbula extremadamente fuerte.</li>
+        <li>Puede vivir más de 70 años.</li>
+        <li>Habita principalmente en ríos y lagos de América del Norte.</li>
+    </ul>
+
+    <h2>Alimentación</h2>
+    <p>
+        Es una especie carnívora. Se alimenta de peces, ranas, aves pequeñas
+        e incluso otras tortugas. Usa su lengua en forma de gusano para atraer a sus presas.
+    </p>
+
+    <h2>Imagen</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Macrochelys_temminckii_1.jpg"
+         alt="Tortuga caimán"
+         width="400">
+
+</body>
+</html>
