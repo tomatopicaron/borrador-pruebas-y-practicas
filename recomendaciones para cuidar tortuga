@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Cuidado de las Tortugas</title>
+</head>
+<body>
+
+    <h1>Cuidado de las Tortugas 🐢</h1>
+
+    <p>Las tortugas son animales tranquilos y longevos que necesitan cuidados especiales para vivir sanas y felices.</p>
+
+    <h2>1. Alimentación</h2>
+    <p>La dieta depende del tipo de tortuga:</p>
+    <ul>
+        <li>Verduras frescas (lechuga, espinaca, zanahoria)</li>
+        <li>Frutas en pequeñas cantidades</li>
+        <li>Proteína (según la especie)</li>
+        <li>Suplemento de calcio</li>
+    </ul>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Turtle_eating.jpg" 
+         alt="Tortuga comiendo" width="300">
+
+    <h2>2. Espacio y Hábitat</h2>
+    <p>Es importante que tengan un espacio adecuado:</p>
+    <ul>
+        <li>Acuario o terrario amplio</li>
+        <li>Zona seca y zona con agua</li>
+        <li>Luz solar o lámpara UVB</li>
+        <li>Agua limpia y filtrada</li>
+    </ul>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Red-eared_slider_turtle.jpg" 
+         alt="Tortuga en su hábitat" width="300">
+
+    <h2>3. Higiene</h2>
+    <p>La limpieza es fundamental para evitar enfermedades:</p>
+    <ol>
+        <li>Cambiar el agua regularmente.</li>
+        <li>Limpiar el acuario cada semana.</li>
+        <li>Revisar su caparazón.</li>
+    </ol>
+
+    <h2>4. Salud</h2>
+    <p>Si notas cambios en su comportamiento, falta de apetito o manchas en el caparazón, consulta a un veterinario especializado.</p>
+
+    <footer>
+        <p>© 2026 - Información básica sobre el cuidado de tortugas</p>
+    </footer>
+
+</body>
+</html>
