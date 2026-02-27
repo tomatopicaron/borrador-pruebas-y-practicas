@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Cuidado y Protección de las Tortugas en Colombia</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8f5;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #2e8b57;
+        }
+        img {
+            width: 300px;
+            border-radius: 10px;
+            margin: 10px 0;
+        }
+        .seccion {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Las Tortugas en Colombia</h1>
+
+    <div class="seccion">
+        <h2>🐢 Cuidado de las Tortugas</h2>
+        <p>
+            Las tortugas son animales que requieren cuidados especiales. Necesitan un ambiente adecuado,
+            alimentación balanceada y acceso a agua limpia. No deben mantenerse en espacios pequeños
+            ni en condiciones inadecuadas.
+        </p>
+        <ul>
+            <li>Alimentación según su especie (vegetales, frutas o proteína).</li>
+            <li>Espacio amplio y limpio.</li>
+            <li>Exposición adecuada al sol o luz UVB.</li>
+            <li>Revisiones veterinarias periódicas.</li>
+        </ul>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Red-eared_slider_turtle.jpg" alt="Tortuga en cautiverio">
+    </div>
+
+    <div class="seccion">
+        <h2>⚠️ Tortugas en Peligro en Colombia</h2>
+        <p>
+            En Colombia existen varias especies de tortugas en peligro debido a la caza ilegal,
+            el tráfico de fauna y la destrucción de su hábitat.
+        </p>
+        <ul>
+            <li>Tortuga Carey</li>
+            <li>Tortuga Caguama</li>
+            <li>Tortuga Verde</li>
+            <li>Tortuga Hicotea (muy afectada por el tráfico ilegal)</li>
+        </ul>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Hawksbill_turtle.jpg" alt="Tortuga Carey">
+    </div>
+
+    <div class="seccion">
+        <h2>⚖️ Consecuencias Legales</h2>
+        <p>
+            En Colombia, tener una tortuga silvestre sin autorización es ilegal. Según la ley,
+            el tráfico y la tenencia de fauna silvestre pueden generar multas económicas
+            y hasta penas de prisión.
+        </p>
+        <p>
+            Las sanciones pueden incluir:
+        </p>
+        <ul>
+            <li>Multas económicas elevadas.</li>
+            <li>Confiscación del animal.</li>
+            <li>Procesos penales.</li>
+        </ul>
+        <p>
+            La fauna silvestre es patrimonio de la Nación y debe protegerse.
+        </p>
+    </div>
+
+</body>
+</html>
